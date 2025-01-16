@@ -6,11 +6,15 @@
         <entry key="lincoln.gadea@zup.com.br">
           <value>
             <ProjectStateData>
-              <option name="conversationId" value="01JHP9HZXMC6D94D5MG5C26K9W" />
+              <option name="conversationId" value="01JHRNRN6HFFP61R5BNAG0V3H4" />
               <option name="indexedFiles">
                 <map>
+                  <entry key="$PROJECT_DIR$/sqrt_src/sqrt_app/forms.py" value="36370" />
                   <entry key="$PROJECT_DIR$/sqrt_src/sqrt_app/models.py" value="20250" />
+                  <entry key="$PROJECT_DIR$/sqrt_src/sqrt_app/templates/index.html" value="39483" />
+                  <entry key="$PROJECT_DIR$/sqrt_src/sqrt_app/views.py" value="35493" />
                   <entry key="$PROJECT_DIR$/sqrt_src/sqrt_src/settings.py" value="18275" />
+                  <entry key="$PROJECT_DIR$/sqrt_src/sqrt_src/urls.py" value="27523" />
                 </map>
               </option>
               <option name="projectId" value="01JHKPBPYP4SBBPPXY2695G5CS" />
